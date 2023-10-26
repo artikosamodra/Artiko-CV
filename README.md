@@ -4,4 +4,4 @@ I am a mobile application developer and game developer. I am also an enthusiasti
 
 ![Art's GitHub stats](https://github-readme-stats.vercel.app/api?username=artikosamodra&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artikosamodra&count_private=true&show_icons=true&langs_count=8&theme=radical)](https://github.com/artikosamodra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artikosamodra&count_private=true&show_icons=true&langs_count=10&theme=radical)](https://github.com/artikosamodra/github-readme-stats)
