@@ -6,7 +6,34 @@ I am a Fullstack Developer. I am also an enthusiastic supporter of augmented rea
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artikosamodra&count_private=true&show_icons=true&langs_count=10&theme=radical)](https://github.com/artikosamodra/github-readme-stats)
 
-My Portofolio - Project Demo
-1. My CV Website  : https://artikosamodra.github.io/cv-boostrap/
-2. Kingpik Store  : https://artikosamodra.github.io/kingpik-store/
-3. LocalStorage   : https://artikosamodra.github.io/Local-Storage/
+## My Portofolio - Project Demo
+### Website
+- Curiculum Vita       : https://artikosamodra.github.io/cv-boostrap/
+- Kingpik Stor         : https://artikosamodra.github.io/kingpik-store/
+- Local Storage        : https://artikosamodra.github.io/Local-Storage/
+
+### Mobile Apps
+- ShoesCare Apps       :
+- Chasier Apps         :
+- Skincare Store       :
+
+### Game Apps
+- CarBoom Battle       :
+- Get Coin             :
+- Speed Dodge          :
+- Shooting Stance      :
+- Race Chess           :
+- Battle Sword         :
+- Think & Run          :
+
+### Augmented Reality Apps
+- AR House Solution    :
+- Furniture Decor      :
+- LoC Hunting          :
+- AR Book              :
+
+
+### Part Code
+- Dark Mode Code (HTML, CSS, JS) = 
+- 
+
