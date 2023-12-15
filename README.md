@@ -1,4 +1,4 @@
-![image](https://github.com/artikosamodra/Artiko-CV/assets/48190353/a05f5c8a-11a5-4d5e-a656-d1cd112f9917)# Artiko F Samodra
+# Artiko F Samodra
 
 I am a Fullstack Developer. I am also an enthusiastic supporter of augmented reality technology. I have worked on multiple projects involving Android apps, diverse games, and augmented reality apps. Currently, I am immersing myself in the role of a backend developer. It's a pleasure to meet you!
 
