@@ -8,32 +8,31 @@ I am a Fullstack Developer. I am also an enthusiastic supporter of augmented rea
 
 ## My Portofolio - Project Demo
 ### Website
-- Curiculum Vitae    : [REPOSITORIES](https://github.com/artikosamodra/cv-boostrap) || [LIVE DEMO](https://artikosamodra.github.io/cv-boostrap/)
-- Kingpik Store      : [REPOSITORIES](https://github.com/artikosamodra/kingpik-store) || [LIVE DEMO](https://artikosamodra.github.io/kingpik-store/)
-- Local Storage      : [REPOSITORIES](https://github.com/artikosamodra/Local-Storage) || [LIVE DEMO](https://artikosamodra.github.io/Local-Storage/)
-
+- Curiculum Vitae    : [Repositories📁](https://github.com/artikosamodra/cv-boostrap) || [Live Demo🚀](https://artikosamodra.github.io/cv-boostrap/)
+- Kingpik Store      : [Repositories📁](https://github.com/artikosamodra/kingpik-store) || [Live Demo🚀](https://artikosamodra.github.io/kingpik-store/)
+- Taonime API's      : [Repositories]() || [Live Demo]()
 ### Mobile Apps
-- ShoesCare Apps     :
-- Chasier Apps       :
-- Skincare Store     :
+- ShoesCare Apps     : [Repositories]() || [Live Demo]()
+- Chasier Apps       : [Repositories]() || [Live Demo]()
+- Skincare Store     : [Repositories]() || [Live Demo]()
 
 ### Game Apps
-- CarBoom Battle     :
-- Get Coin           :
-- Speed Dodge        :
-- Shooting Stance    :
-- Race Chess         :
-- Battle Sword       :
-- Think & Run        :
+- CarBoom Battle     : [Repositories]() || [Live Demo]()
+- Get Coin           : [Repositories]() || [Live Demo]()
+- Speed Dodge        : [Repositories]() || [Live Demo]()
+- Shooting Stance    : [Repositories]() || [Live Demo]()
+- Race Chess         : [Repositories]() || [Live Demo]()
+- Battle Sword       : [Repositories]() || [Live Demo]()
+- Think & Run        : [Repositories]() || [Live Demo]()
 
 ### Augmented Reality Apps
-- AR House Solution  :
-- Furniture Decor    :
-- LoC Hunting        :
-- AR Book            :
+- AR House Solution  : [Repositories]() || [Live Demo]()
+- Furniture Decor    : [Repositories]() || [Live Demo]()
+- LoC Hunting        : [Repositories]() || [Live Demo]()
+- AR Book            : [Repositories]() || [Live Demo]()
 
 
 ### Part Code
-- Dark Mode Code (HTML, CSS, JS) = 
-- 
+- Dark Mode Code = [Repositories📁](https://github.com/artikosamodra/DarkMode-Web) || [Live Demo🚀](https://artikosamodra.github.io/DarkMode-Web/)
+- Local Storage Login = [Repositories📁](https://github.com/artikosamodra/Local-Storage) || [Live Demo🚀](https://artikosamodra.github.io/Local-Storage/)
 
