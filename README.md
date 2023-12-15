@@ -8,7 +8,7 @@ I am a Fullstack Developer. I am also an enthusiastic supporter of augmented rea
 
 ## My Portofolio - Project Demo
 ### Website
-- Curiculum Vitae    : [REPOSITORIES] ([https://artikosamodra.github.io/cv-boostrap/](https://github.com/artikosamodra/cv-boostrap)) {:target="_blank"} || [DEMO] (https://artikosamodra.github.io/cv-boostrap/) {:target="_blank"}
+- Curiculum Vitae    : [REPOSITORIES] ([https://artikosamodra.github.io/cv-boostrap/](https://github.com/artikosamodra/cv-boostrap)) { : target="_blank"} || [DEMO] (https://artikosamodra.github.io/cv-boostrap/) { : target="_blank"}
 - Kingpik Stor       : https://artikosamodra.github.io/kingpik-store/
 - Local Storage      : https://artikosamodra.github.io/Local-Storage/
 
