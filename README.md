@@ -8,29 +8,29 @@ I am a Fullstack Developer. I am also an enthusiastic supporter of augmented rea
 
 ## My Portofolio - Project Demo
 ### Website
-- Curiculum Vita       : https://artikosamodra.github.io/cv-boostrap/
-- Kingpik Stor         : https://artikosamodra.github.io/kingpik-store/
-- Local Storage        : https://artikosamodra.github.io/Local-Storage/
+- Curiculum Vitae    : [REPOSITORIES] ([https://artikosamodra.github.io/cv-boostrap/](https://github.com/artikosamodra/cv-boostrap)) {:target="_blank"} || [DEMO] (https://artikosamodra.github.io/cv-boostrap/) {:target="_blank"}
+- Kingpik Stor       : https://artikosamodra.github.io/kingpik-store/
+- Local Storage      : https://artikosamodra.github.io/Local-Storage/
 
 ### Mobile Apps
-- ShoesCare Apps       :
-- Chasier Apps         :
-- Skincare Store       :
+- ShoesCare Apps     :
+- Chasier Apps       :
+- Skincare Store     :
 
 ### Game Apps
-- CarBoom Battle       :
-- Get Coin             :
-- Speed Dodge          :
-- Shooting Stance      :
-- Race Chess           :
-- Battle Sword         :
-- Think & Run          :
+- CarBoom Battle     :
+- Get Coin           :
+- Speed Dodge        :
+- Shooting Stance    :
+- Race Chess         :
+- Battle Sword       :
+- Think & Run        :
 
 ### Augmented Reality Apps
-- AR House Solution    :
-- Furniture Decor      :
-- LoC Hunting          :
-- AR Book              :
+- AR House Solution  :
+- Furniture Decor    :
+- LoC Hunting        :
+- AR Book            :
 
 
 ### Part Code
