@@ -11,6 +11,7 @@ I am a Fullstack Developer. I am also an enthusiastic supporter of augmented rea
 - Curiculum Vitae    : [Repositories📁](https://github.com/artikosamodra/cv-boostrap) || [Live Demo🚀](https://artikosamodra.github.io/cv-boostrap/)
 - Kingpik Store      : [Repositories📁](https://github.com/artikosamodra/kingpik-store) || [Live Demo🚀](https://artikosamodra.github.io/kingpik-store/)
 - Taonime API's      : [Repositories]() || [Live Demo]()
+- ArtTube Player     : [Repositories](https://github.com/artikosamodra/video-player-web) || [Live Demo](https://artikosamodra.github.io/video-player-web/)
 ### Mobile Apps
 - ShoesCare Apps     : [Repositories]() || [Live Demo]()
 - Chasier Apps       : [Repositories]() || [Live Demo]()
