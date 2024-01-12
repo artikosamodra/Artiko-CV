@@ -8,7 +8,7 @@ Hi, this is my GitHub portfolio dedicated to showcasing my work since I graduate
 
 ## My Portofolio - Project Demo
 ### Website
-- Curiculum Vitae    : [Repositories📁](https://github.com/artikosamodra/cv-boostrap) || [Live Demo🚀](https://artikosamodra.github.io/cv-boostrap/)
+- Curiculum Vitae    : [Repositories📁](https://github.com/artikosamodra/cv-boostrap) || [Live Demo🚀]( https://artikosamodra.github.io/mcv/)
 - Kingpik Store      : [Repositories📁](https://github.com/artikosamodra/kingpik-store) || [Live Demo🚀](https://artikosamodra.github.io/kingpik-store/)
 - Taonime API's      : [Repositories]() || [Live Demo]()
 - ArtTube Player     : [Repositories](https://github.com/artikosamodra/video-player-web) || [Live Demo](https://artikosamodra.github.io/video-player-web/)
