@@ -2,7 +2,7 @@
 
 Hi, this is my GitHub portfolio dedicated to showcasing my work since I graduated with a bachelor's degree in computer science in July 2023 until now. I am a Fullstack Developer. I am also an enthusiastic supporter of augmented reality technology. I have worked on multiple projects involving Android apps, diverse games, and augmented reality apps. Currently, I am immersing myself in the role of a backend developer. It's a pleasure to meet you!
 
-![Art's GitHub stats](https://github-readme-stats.vercel.app/api?username=artikosamodra&count_private=true&show_icons=true&theme=radical)
+[![Art's GitHub stats](https://github-readme-stats.vercel.app/api?username=artikosamodra&&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/artikosamodra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artikosamodra&count_private=true&show_icons=true&langs_count=10&theme=radical)](https://github.com/artikosamodra/github-readme-stats)
 
